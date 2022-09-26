@@ -1,1 +1,1 @@
-# Riwil-Recipe
+# Recipe
